@@ -1,4 +1,4 @@
-#Portfolio project 1
+# Portfolio project 1
 ## Retail Data project
 
 ### Predict weekly sales for each store
